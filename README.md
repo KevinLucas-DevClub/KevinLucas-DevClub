@@ -21,7 +21,7 @@ Eu sou o Kevin Lucas, sou um programador Front-End e atualmente estou aprendendo
 
 ## Tools:
 
-![KevinLucas-Develop GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLucas-Developb&show_icons=true&theme=transparent)
+![KevinLucas-Develop GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLucas-Develop&show_icons=true&theme=transparent)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLucas-Develop)](https://github.com/anuraghazra/github-readme-stats)
 
