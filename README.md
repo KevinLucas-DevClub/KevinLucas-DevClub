@@ -25,7 +25,7 @@ Eu sou o Kevin Lucas, sou um programador Front-End e atualmente estou aprendendo
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLucas-Develop)](https://github.com/anuraghazra/github-readme-stats)
 
-##Vwatchers:
-https://img.shields.io/github/watchers/{KevinLucas-Develop}/{repo-name}.svg
+##Watchers:
+<img src="https://img.shields.io/github/watchers/{KevinLucas-Develop}/{repo-name}.svg" alt="logo-Watchers">
 
 
